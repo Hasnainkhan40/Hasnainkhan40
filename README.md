@@ -76,11 +76,7 @@
 ![Static Badge](https://img.shields.io/badge/Windows-blue?style=for-the-badge)
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,java,cpp,html,css,js,php,mysql,vscode,github,firebase,postman,bootstrap,wordpress,gcloud,notion,linux,figma,git,androidstudio,windows" /><br/>
-</p>
 
-<hr>
 
 
 
