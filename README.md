@@ -100,6 +100,15 @@
 
 <br> 
 
+### ✨ Featured Projects
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=intellexa&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=quickshop&theme=tokyonight" />
+</p>
+
+<hr>
+
 ---
 
 <p align = "center">
