@@ -76,10 +76,6 @@
 ![Static Badge](https://img.shields.io/badge/Windows-blue?style=for-the-badge)
 
 
-
-
-
-
 <!--  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
