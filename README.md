@@ -131,6 +131,7 @@
 	
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hasnainkhan40?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnainkhan40&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+
 </details>
 <!-- Recent GitHub Activity -->
 <!-- <details><summary><h3>⚡ Recent GitHub Activity</h3></summary> -->
