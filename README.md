@@ -16,7 +16,7 @@
 ## <picture><img src = "https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/IMG_3457.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width = 250px></picture>
-
+ 
 <br><br>
 
 - :school: I am a `4rd Year BTech.`  Student at [Shree Bhawani Niketan Institute of Technology and Management](https://sbnitm.com//). 
