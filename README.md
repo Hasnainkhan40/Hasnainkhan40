@@ -1,125 +1,165 @@
-<h1 align="center">Hi , I'm Hasnain Khan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
-<p align="center"> 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=47F70A&center=true&vCenter=true&width=600&height=100&lines=Dedicated+Software+Engineer;Specializing+in+Flutter+Development;I+am+Application+Developer;" alt="Typing SVG" /></a>
-</p> 
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0175C2,100:02569B&height=200&section=header&text=Hasnain%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=60&descAlign=50" />
 
-<p align="center"> 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Hasnainkhan40&style=for-the-badge">
-</a>
-</p>
+</div>
 
-	
-## <picture><img src = "https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/IMG_3457.gif?raw=true" width = 50px></picture> About me
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=0175C2&center=true&vCenter=true&width=650&height=60&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Full+Stack+Engineer+(PERN+%7C+MERN);Building+Scalable+%26+Beautiful+Apps;460%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0" alt="Typing SVG" />
+</h3>
 
-<picture> <img align="right" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width = 250px></picture>
- 
-<br><br>
-
-- :school: I am a 4rd Year BTech.  Student at [Shree Bhawani Niketan Institute of Technology and Management](https://sbnitm.com//). 
-- 👨‍🎓 Pursuing a Master's degree in Computer Applications.
-- 👨‍💻  Flutter Developer with expertise in Dart and MySQL, passionate about building efficient and scalable applications.
-- :student: Currently exploring Cross-Platform Mobile Development and various Hybrid Frameworks .
-- :nerd_face: Always Learning, Experimenting, and Pushing the boundaries of technology.
-- :thinking: I’m currently open for a new Job Opportunity, [Let’s Connect!](mailto:mohasnainkhan148@gmail.com).
-
-<br>
-
-
-
-</p>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
 <p align="center">
-	<a href="mailto:mohasnainkhan148@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Hasnainkhan40"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/+919351807148"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/hasnaink40/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/hasnaink_40/#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://komarev.com/ghpvc/?username=Hasnainkhan40">
+    <img src="https://komarev.com/ghpvc/?username=Hasnainkhan40&style=for-the-badge&color=0175C2" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Hasnainkhan40?tab=followers">
+    <img src="https://img.shields.io/github/followers/Hasnainkhan40?style=for-the-badge&color=02569B&labelColor=0d1117&label=Followers" />
+  </a>
 </p>
-
-
-
-## 🛠 Tech Stack
-
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Windows-blue?style=for-the-badge)
-
-<br> 
 
 ---
 
-### ✨ Featured Projects
+## 🙋‍♂️ About Me
+
+<picture>
+  <img align="right" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width="230px" />
+</picture>
+
+- 🎓 **B.Tech in AI & Data Science** — CGPA: **8.7** | Shree Bhawani Niketan Institute of Technology and Management, RTU Jaipur
+- 💼 **Application Developer Intern** @ Product Pursuit *(Nov 2025 – Present)* — Flutter, FlutterFlow, Supabase
+- 📱 **Flutter Developer** with strong expertise in Dart, mobile UI, and cross-platform development
+- 🌐 Building full-stack apps with **React.js, Next.js, Node.js, PostgreSQL & MongoDB**
+- 🧠 Solved **460+ DSA problems** on LeetCode to sharpen algorithmic thinking
+- 🔍 Passionate about **Clean Architecture, AI integrations, and scalable system design**
+- 💬 Always open to exciting opportunities — [**Let's Connect!**](mailto:mohasnainkhan148@gmail.com)
+
+<br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=intellexa&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=quickshop&theme=tokyonight" />
+  <a href="mailto:mohasnainkhan148@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hasnaink40/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Hasnainkhan40"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/+919351807148"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hasnaink_40/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<hr>
+---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+## 💼 Experience
+
+### 🚀 Application Developer Intern — [Product Pursuit](https://productpursuit.in) *(Nov 2025 – Present)*
+> Flutter Developer | Remote — Bengaluru, India
+
+- 📱 Developed and enhanced mobile app features using **Flutter** and **FlutterFlow**
+- 🖼️ Built refined UI screens: Chat, Messaging, Item Listing, Item Details with smooth navigation
+- 🔐 Integrated **Supabase** for authentication and backend data handling
+- 🤝 Collaborated via **Git/GitHub** using feature branches and pull requests
+- 🚢 Assisted in deploying the application to the **Google Play Store**
+
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| 🤖 **AI SaaS Platform** | PostgreSQL, Express, React, Node, Clerk, Neon DB, Gemini AI | Subscription-based AI platform with article generation, AI image gen, background removal & resume analysis |
+| 🔬 **Postboy** | Next.js, TypeScript, Better Auth, Zustand, WebSockets, Docker | AI-enhanced API testing & collaboration platform with real-time workspace and Monaco Editor |
+| 📡 **TraceAPI** | Node.js, RabbitMQ, MongoDB, PostgreSQL, Docker, React | Scalable multi-tenant API monitoring system with event-driven architecture & circuit breakers |
+| 🛒 **QuickShop** | Flutter, Dart, Firebase | Cross-platform e-commerce app with real-time data and smooth mobile UX |
+| 🧠 **Intellexa** | Flutter, Dart, MySQL | Smart productivity app with intuitive UI and database integration |
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Hasnainkhan40/intellexa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=intellexa&theme=tokyonight&border_color=0175C2" />
+  </a>
+  <a href="https://github.com/Hasnainkhan40/quickshop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=quickshop&theme=tokyonight&border_color=0175C2" />
+  </a>
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+---
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+## 🛠️ Tech Stack
 
-----	
+**Languages**
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnainkhan40&theme=tokyonight_duo" alt="Hasnainkhan40
-" /></p>
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+**Frameworks & Libraries**
 
-----
-	
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hasnainkhan40?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnainkhan40&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</details>
+**Databases**
 
-<br><br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnainkhan40&theme=tokyonight_duo&border=0175C2" alt="GitHub Streak" />
 </p>
 
-  ## 💰 You can help me by Donating
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasnainkhan40&show_icons=true&theme=tokyonight&border_color=0175C2&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnainkhan40&theme=tokyonight&border_color=0175C2&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" height="165" />
+</p>
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hasnainkhan40?new=1)
+---
+
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 💰 Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/hasnainkhan40">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Dev Quote" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:0d1117&height=120&section=footer" />
