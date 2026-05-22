@@ -1,7 +1,7 @@
 <!-- ========================= TOP BANNER ========================= -->
 
 <p align="center">
-<img src="./assets/banner.png" width="100%">
+<img src="assets/banner.png" width="100%">
 </p>
 
 
@@ -37,14 +37,12 @@ Full Stack Developer • AI Engineer • Backend Developer
 </p>
 
 
----
 
-<img align="right"
-alt="coding-gif"
-width="380"
-src="https://media.tenor.com/2roX3uxz_68AAAAC/coding-boy.gif"/>
+
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
 
 <h3 align="left">💫 About Me</h3>
+---
 
 <p>
 
@@ -113,7 +111,7 @@ alt="Portfolio"/>
 
 </p>
 
----
+
 
 
 
@@ -150,77 +148,57 @@ Exploring → RabbitMQ • Event Driven Architecture • Distributed Systems •
 
 </p>
 
----
-
-# ⭐ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Hasnainkhan40/TraceAPI-API_Monitoring_System-">
-<img width="400"
-src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=TraceAPI-API_Monitoring_System-&theme=tokyonight&border_radius=10"/>
-</a>
-
-<a href="https://github.com/Hasnainkhan40/postly">
-<img width="400"
-src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=postly&theme=tokyonight&border_radius=10"/>
-</a>
-
-<br>
-
-<a href="https://github.com/Hasnainkhan40/Promptix">
-<img width="400"
-src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=Promptix&theme=tokyonight&border_radius=10"/>
-</a>
-
-<a href="https://github.com/Hasnainkhan40/LinkGuard-AI">
-<img width="400"
-src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=LinkGuard-AI&theme=tokyonight&border_radius=10"/>
-</a>
-
-</div>
 
 
----
-
-# 📈 GitHub Stats
-
-
-<div align="center">
-
-
-<img width="420"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnainkhan40&theme=tokyonight"/>
-
-
-<img width="420"
-src="https://github-readme-stats.vercel.app/api?username=Hasnainkhan40&show_icons=true&theme=tokyonight"/>
-
-
-<img width="420"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnainkhan40&layout=compact&theme=tokyonight"/>
-
-
-</div>
-
-
----
-
-# 📊 Contribution Graph
-
+<h1 align="center">⭐ Featured Projects</h1>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnainkhan40&theme=tokyo-night"/>
+<a href="https://github.com/Hasnainkhan40/TraceAPI-API_Monitoring_System">
+<img height="160"
+src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnainkhan40&repo=TraceAPI-API_Monitoring_System&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Hasnainkhan40/postly">
+<img height="160"
+src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnainkhan40&repo=postly&theme=tokyonight"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Hasnainkhan40/Promptix">
+<img height="160"
+src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnainkhan40&repo=Promptix&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Hasnainkhan40/LinkGuard-AI">
+<img height="160"
+src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnainkhan40&repo=LinkGuard-AI&theme=tokyonight"/>
+</a>
 
 </p>
 
 
 
----
 
-# 🐍 Contribution Snake
+<h1 align="center">📈 GitHub Stats</h1>
 
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hasnainkhan40&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hasnainkhan40&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+
+
+
+
+
+<h1 align="center">🐍 Contribution Snake</h1>
 
 <p align="center">
 
@@ -229,30 +207,22 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnainkhan4
 </p>
 
 
----
-
-# ☕ Support Me
 
 
+<h1 align="center">☕ Support Me</h1>
 <p align="center">
-
-<a href="https://buymeacoffee.com/hasnainkhan40">
-
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-height="45"/>
-
-</a>
-
+  <a href="https://buymeacoffee.com/hasnainkhan40">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+  </a>
 </p>
 
 
 
----
+
 
 <p align="center">
 
-<img src="./assets/footer.png"
-width="100%">
+<img src="assets/footer.png" width="100%">
 
 </p>
 
