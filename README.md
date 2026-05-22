@@ -1,132 +1,264 @@
-<!-- ========================= BANNER ========================= -->
+<!-- ========================= TOP BANNER ========================= -->
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner">
+<img src="./assets/banner.png" width="100%">
 </p>
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Hasnainkhan40&label=Profile%20Views&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Hasnainkhan40?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/Hasnainkhan40?style=for-the-badge">
+
+</div>
+
 
 <h1 align="center">
-Hi, I'm Hasnain Khan
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+Hi 👋 I'm Mohammad Hasnain Khan
+
 </h1>
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=47F70A&center=true&vCenter=true&width=700&height=100&lines=Full+Stack+Developer;AI+Engineer;Backend+Developer;Building+Scalable+Systems;Application+Developer+Intern+@+Product+Pursuit;460%2B+LeetCode+Problems+Solved">
-</a>
-</p>
+
+<h3 align="center">
+
+Full Stack Developer • AI Engineer • Backend Developer
+
+</h3>
+
 
 <p align="center">
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=Hasnainkhan40&style=for-the-badge">
-</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F72A&center=true&width=700&lines=Building+Scalable+Systems;AI+Engineer;Backend+Developer;Application+Developer+Intern+@+Product+Pursuit;460%2B+LeetCode+Problems+Solved">
+
 </p>
+
 
 ---
-
-## <picture><img src="https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/IMG_3457.gif?raw=true" width="50px"></picture> About Me
 
 <img align="right"
-src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"
-width="250"/>
+alt="coding-gif"
+width="380"
+src="https://media.tenor.com/2roX3uxz_68AAAAC/coding-boy.gif"/>
 
-🎓 B.Tech in Artificial Intelligence & Data Science (CGPA: 8.57)
+<h3 align="left">💫 About Me</h3>
 
-💼 Application Developer Intern @ Product Pursuit
+<p>
 
-⚡ Building:
-- AI SaaS Platforms
-- Scalable Backend Systems
-- API Monitoring Systems
-- Production-ready Full Stack Apps
+🎓 Pursuing <strong>B.Tech in Artificial Intelligence & Data Science</strong> (CGPA: <strong>8.57</strong>).<br>
 
-🏆 Solved 460+ LeetCode problems
+💼 Currently working as an <strong>Application Developer Intern @ Product Pursuit</strong>.<br>
 
-🌱 Exploring:
-RabbitMQ • Event Driven Architecture • Docker • AI Systems • Distributed Systems
+⚡ Building <strong>AI SaaS Platforms, Scalable Backend Systems & Production-ready Applications</strong>.<br>
 
-📫 Reach me:
-**mohasnainkhan148@gmail.com**
+🔭 Worked with <strong>React, Next.js, Node.js, Express.js, Flutter, Supabase & PostgreSQL</strong>.<br>
 
-<br>
+🌱 Exploring <strong>RabbitMQ, Event Driven Architecture, Docker, Distributed Systems & AI Engineering</strong>.<br>
 
----
+🏆 Solved <strong>460+ LeetCode Problems</strong> to strengthen problem-solving & DSA skills.<br>
 
-## 🌐 Connect With Me
+🚀 Interested in <strong>System Design, Backend Engineering, AI Products & Scalable Architectures</strong>.<br>
 
-<p align="center">
+💬 Open to discussions about <strong>Full Stack Development, AI, Startups & Open Source</strong>.<br>
+
+⚡ Currently seeking <strong>Internships, Full-time opportunities & Collaborations</strong>.<br>
+
+</p>
+
+
+<h3 align="left">🧲 Drop me a line:</h3>
+
+<div align="left">
 
 <a href="mailto:mohasnainkhan148@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<img width="35px"
+src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+alt="Gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/hasnaink40/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/hasnaink40">
+<img width="35px"
+src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Hasnainkhan40">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img width="35px"
+src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+alt="GitHub"/>
+</a>
+
+<a href="https://wa.me/+919351807148">
+<img width="35px"
+src="https://cdn-icons-png.flaticon.com/512/733/733585.png"
+alt="WhatsApp"/>
+</a>
+
+<a href="mailto:mohasnainkhan148@gmail.com">
+<img width="35px"
+src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png"
+alt="Portfolio"/>
+</a>
+
+</div>
+
+<br>
+
+<p align="left">
+
+💡 <strong>"Building scalable systems & AI products one commit at a time."</strong>
+
+</p>
+
+---
+
+
+
+
+<!-- Languages & Tools -->
+
+<h3 align="center">
+⚒️ Languages & Tools I Have Worked With
+</h3>
+
+<div align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,dart,java,python,html,css,c" /><br>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter,redux,figma,vscode,shadcnui" /><br>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman,docker,rabbitmq,linux,bash,git,github" /><br>
+
+<!-- Database + Cloud + Tools -->
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase,firebase,redis,prisma,vercel,sqlite,notion" /><br>
+
+</div>
+
+<br>
+
+<p align="center">
+
+💡 <strong>
+Exploring → RabbitMQ • Event Driven Architecture • Distributed Systems • AI Engineering • System Design
+</strong>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Hasnainkhan40/TraceAPI-API_Monitoring_System-">
+<img width="400"
+src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=TraceAPI-API_Monitoring_System-&theme=tokyonight&border_radius=10"/>
+</a>
+
+<a href="https://github.com/Hasnainkhan40/postly">
+<img width="400"
+src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=postly&theme=tokyonight&border_radius=10"/>
+</a>
+
+<br>
+
+<a href="https://github.com/Hasnainkhan40/Promptix">
+<img width="400"
+src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=Promptix&theme=tokyonight&border_radius=10"/>
+</a>
+
+<a href="https://github.com/Hasnainkhan40/LinkGuard-AI">
+<img width="400"
+src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=LinkGuard-AI&theme=tokyonight&border_radius=10"/>
+</a>
+
+</div>
+
+
+---
+
+# 📈 GitHub Stats
+
+
+<div align="center">
+
+
+<img width="420"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnainkhan40&theme=tokyonight"/>
+
+
+<img width="420"
+src="https://github-readme-stats.vercel.app/api?username=Hasnainkhan40&show_icons=true&theme=tokyonight"/>
+
+
+<img width="420"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnainkhan40&layout=compact&theme=tokyonight"/>
+
+
+</div>
+
+
+---
+
+# 📊 Contribution Graph
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnainkhan40&theme=tokyo-night"/>
+
+</p>
+
+
+
+---
+
+# 🐍 Contribution Snake
+
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+
+---
+
+# ☕ Support Me
+
+
+<p align="center">
+
+<a href="https://buymeacoffee.com/hasnainkhan40">
+
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+height="45"/>
+
 </a>
 
 </p>
 
----
 
-## ⚒️ Tech Stack
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/Postgres-blue?style=for-the-badge&logo=postgresql)
-
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq)
 
 ---
-
-## ⭐ Featured Projects
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=TraceAPI-API_Monitoring_System&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=Postly&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=Promptix&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasnainkhan40&repo=LinkGuard-AI&theme=tokyonight"/>
+<img src="./assets/footer.png"
+width="100%">
 
 </p>
 
----
-
-## 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnainkhan40&theme=tokyonight"/>
+⚡ Building scalable systems & AI products one commit at a time.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hasnainkhan40&show_icons=true&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-<!-- ========================= FOOTER ========================= -->
-
-<p align="center">
-<img src="./assets/footer.png" width="100%">
 </p>
