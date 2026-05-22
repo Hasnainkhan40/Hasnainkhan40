@@ -202,7 +202,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnain
 
 
 <!-- Tech Stack -->
-<h3 align="center">💻 Tech Stack</h3>
+<h1 align="center">💻 Tech Stack</h1>
 <div align="center">
 
 <!-- Languages -->
