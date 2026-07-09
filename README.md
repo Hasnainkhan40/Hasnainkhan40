@@ -1,5 +1,5 @@
 <!-- ========================= TOP BANNER ========================= -->
-
+   
 <p align="center">  
 <img src="assets/banner.png" width="100%">
 </p> 
@@ -10,8 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=Hasnainkhan40&label=Profile%20Views&style=for-the-badge&color=blue" />
 <img src="https://img.shields.io/github/followers/Hasnainkhan40?style=for-the-badge&color=brightgreen" />
 <img src="https://img.shields.io/github/stars/Hasnainkhan40?style=for-the-badge&color=yellow" />
-<img src="https://img.shields.io/badge/LeetCode-480%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=black" /> 
-
+<img src="https://img.shields.io/badge/LeetCode-480%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=black" />   
 </div>
 
 
